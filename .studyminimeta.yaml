@@ -1,0 +1,87 @@
+#<!-- METADATA START --> # DO NOT DELETE THIS LINE
+# All example text is surrounded with <ex> and </ex>. Please replace the example
+# text including the <ex> and </ex> with your data. Delete all non-applicable
+# lines and sections.
+
+# Attention: indentation is important and must be preserved!
+
+# information on the study the to-be-archived dataset was created for
+
+# mandatory information on to-be-archived dataset
+dataset:
+  # short name or label
+  name: SFB1451 - key mechanisms of motor control in health and disease
+
+  # current location of the dataset
+  location: https://github.com/jsheunis/sfb1451-data-catalog
+
+  # summary of purpose and content of the dataset
+  description:
+    "This is the data catalog of the Collaborative Research Centre 1451 (CRC1451, German: SFB1451) for key mechanisms of motor control in health and disease. This initiative brings together neuroscientists investigating genetic factors, cellular, and synaptic as well as systems/neural network processes underlying motor control in animals and humans, in both health and neuropsychiatric diseases. The CRC1451 aims to provide an integrated and comprehensive view of the neurobiological underpinnings of motor control and its disturbances. To support this effort, the raw, processed, and analyzed data resulting from the involved research studies are cataloged here. This catalog provides a standardized data resource on the neuroscience of motor control, that spans species, paradigms, and data modalities, and is uniformly accessible to modelers. It aims to (1) facilitate data analysis for extracting common activity patterns and mechanisms underlying motor behaviors across species, and (2) promote data-driven computational modeling."
+
+
+  # optional list of employed standard and format
+  # for automatic generation of rich metadata records
+  # (see handbook for full list)
+
+  # optional list of keyword/phrase
+  keyword:
+    - Motor control
+    - Health
+    - Disease
+    - Genetic
+    - Cellular
+    - Systems
+    - Neural
+    - Networks
+    - Animals
+    - Humans
+
+
+  # minimum of one dataset author required
+  author:
+    - silvia.daun@uni-koeln.de
+    - s.eickhoff@fz-juelich.de
+    - m.hanke@fz-juelich.de
+    - p.mengotti@fz-juelich.de
+    - mnawrot@uni-koeln.de
+    - tittgemeyer@sf.mpg.de
+    - s.vossel@fz-juelich.de
+    - s.van.albada@fz-juelich.de
+
+  # optional list of entities that funded the creation of
+  # the dataset. This might also be a single value, i.e.:
+  #`` funding: NIH´´.
+
+# person information, one record for every email-key used above
+person:
+  silvia.daun@uni-koeln.de:
+     given_name: Silvia
+     last_name: Daun
+     orcid-id: 0000-0001-7342-1015
+  s.eickhoff@fz-juelich.de:
+     given_name: Simon
+     last_name: Eickhoff
+  m.hanke@fz-juelich.de:
+     given_name: Michael
+     last_name: Hanke
+     orcid-id: 0000-0001-6398-6370
+  p.mengotti@fz-juelich.de:
+     given_name: Paola
+     last_name: Mengotti
+  mnawrot@uni-koeln.de:
+     given_name: Martin
+     last_name: Nawrot
+     orcid-id: 0000-0001-6398-6370
+  tittgemeyer@sf.mpg.de:
+     given_name: Marc
+     last_name: Tittgemeyer
+  s.vossel@fz-juelich.de:
+     given_name: Simone
+     last_name: Vossel
+  s.van.albada@fz-juelich.de:
+     given_name: Sacha
+     last_name: van Albada
+  
+
+#<!-- METADATA END -->  # DO NOT DELETE THIS LINE
