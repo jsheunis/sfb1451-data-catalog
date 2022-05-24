@@ -3,3 +3,8 @@
 	url = https://github.com/jsheunis/Simulating-SNN-cost-with-GeNN-NEST.git
 	datalad-id = cfce0015-8a8d-44ab-a746-73ec59e8f177
 	datalad-url = https://github.com/jsheunis/Simulating-SNN-cost-with-GeNN-NEST.git
+[submodule "Transdural-recordings-M1-monkey"]
+	path = Transdural-recordings-M1-monkey
+	url = https://github.com/jsheunis/Transdural-recordings-M1-monkey.git
+	datalad-id = 37900fa9-2d95-43b4-b223-51ff6ca0da70
+	datalad-url = https://github.com/jsheunis/Transdural-recordings-M1-monkey.git
