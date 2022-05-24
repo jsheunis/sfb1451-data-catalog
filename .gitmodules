@@ -1,0 +1,5 @@
+[submodule "Simulating-SNN-cost-with-GeNN-NEST"]
+	path = Simulating-SNN-cost-with-GeNN-NEST
+	url = https://github.com/jsheunis/Simulating-SNN-cost-with-GeNN-NEST.git
+	datalad-id = cfce0015-8a8d-44ab-a746-73ec59e8f177
+	datalad-url = https://github.com/jsheunis/Simulating-SNN-cost-with-GeNN-NEST.git
