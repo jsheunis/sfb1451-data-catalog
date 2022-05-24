@@ -8,3 +8,8 @@
 	url = https://github.com/jsheunis/Transdural-recordings-M1-monkey.git
 	datalad-id = 37900fa9-2d95-43b4-b223-51ff6ca0da70
 	datalad-url = https://github.com/jsheunis/Transdural-recordings-M1-monkey.git
+[submodule "Externally-Cued-Movements"]
+	path = Externally-Cued-Movements
+	url = https://github.com/jsheunis/Externally-Cued-Movements.git
+	datalad-id = 88cbc6bc-cce5-45b7-9066-4e3650fbb5ea
+	datalad-url = https://github.com/jsheunis/Externally-Cued-Movements.git
